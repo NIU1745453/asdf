@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\source">
+      <UniqueIdentifier>{5ddd4810-cf52-49fb-bd08-0b735cc6fe78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\source">
+      <UniqueIdentifier>{3fb0005d-8f13-49d0-abe7-255c907d489d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\Projecte_Dames_MP\fitxa.cpp">
+      <Filter>Archivos de origen\source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\Projecte_Dames_MP\moviment.cpp">
+      <Filter>Archivos de origen\source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\Projecte_Dames_MP\posicio.cpp">
+      <Filter>Archivos de origen\source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\Projecte_Dames_MP\tauler.cpp">
+      <Filter>Archivos de origen\source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\test.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\GitHub\Projecte_Dames_MP\Fitxa.h">
+      <Filter>Archivos de encabezado\source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\GitHub\Projecte_Dames_MP\Moviment.h">
+      <Filter>Archivos de encabezado\source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\source\posicio.hpp">
+      <Filter>Archivos de encabezado\source</Filter>
+    </ClInclude>
+    <ClInclude Include="source\tauler.hpp">
+      <Filter>Archivos de encabezado\source</Filter>
+    </ClInclude>
+    <ClInclude Include="source\json.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_1.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_3.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_4.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_5.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_6.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_7.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_8.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_9.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_10.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_1.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_3.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_4.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_5.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_6.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_7.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_8.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_9.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviment_fitxa_resultat_10.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_moviments_valids.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_inicial_1.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Documents\GitHub\MP-Curs-24-25\projecte\test_primer_lliurament\test\tauler_inicial_2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

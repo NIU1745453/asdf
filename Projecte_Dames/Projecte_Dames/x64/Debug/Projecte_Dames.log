@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\daria\source\repos\Projecte_Dames\Projecte_Dames\source\test.cpp(96,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\daria\source\repos\Projecte_Dames\Projecte_Dames\source\test.cpp(447,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Projecte_Dames.vcxproj -> C:\Users\daria\source\repos\Projecte_Dames\x64\Debug\Projecte_Dames.exe
